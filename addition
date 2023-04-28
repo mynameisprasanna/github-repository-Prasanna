@@ -8,4 +8,3 @@ VAR2=`echo $2`
 sum=$(($VAR1 + $VAR2))
 
 echo "Sum of two numbers is $sum"
-
